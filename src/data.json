@@ -56,7 +56,6 @@
   "photoCredit": "Carles",
   "photoCreditUrl": "https://maps.google.com/maps/contrib/104892220434353843650",
   "siteDomain": "vilanovailageltru.info",
-  "sourceFile": "vilanova_i_la_geltru_catalonia_spain.csv",
   "redirects": {
     "ca": "/"
   },
@@ -65,5 +64,6 @@
   "accent": "#0f3b52",
   "deep": "#08283a",
   "gold": "#d9a13b",
-  "light": "#8fbad0"
+  "light": "#8fbad0",
+  "photoSelector": ".masthead__photo img"
 }
