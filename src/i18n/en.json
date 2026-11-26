@@ -1,0 +1,135 @@
+{
+  "locale": "en",
+  "htmlLang": "en",
+  "ogLocale": "en_GB",
+  "pathPrefix": "../",
+  "countryName": "Spain",
+  "brand": {
+    "sub": "Municipal sports hall · Vilanova"
+  },
+  "meta": {
+    "title": "Isaac Galvez Pavilion · Municipal sports hall in Vilanova i la Geltrú",
+    "description": "Municipal indoor sports hall on Ronda Ibèrica, 66, Vilanova i la Geltrú. Courts for basketball, handball, futsal and volleyball, plus space for training and fixtures. Enquiries: 938 14 34 50.",
+    "ogAlt": "Isaac Galvez Municipal Sports Pavilion, Vilanova i la Geltrú"
+  },
+  "nav": {
+    "facilities": "Facilities",
+    "sports": "Sports",
+    "reviews": "Reviews",
+    "visit": "Find us",
+    "skip": "Skip to main content",
+    "label": "Main navigation"
+  },
+  "hero": {
+    "kicker": "Ronda Ibèrica, 66 · Vilanova i la Geltrú",
+    "title": "The hall where half of Vilanova plays",
+    "lede": "A municipal indoor facility for basketball, handball, futsal and volleyball. Courts for training and match days, seating and step-free access. Home to the town's teams.",
+    "photoAlt": "photo of the sports hall",
+    "photoCredit": "Photo"
+  },
+  "glance": {
+    "label": "The hall at a glance",
+    "addressLabel": "Address",
+    "phoneLabel": "Enquiries",
+    "bookingLabel": "Bookings",
+    "bookingValue": "By phone, subject to court availability",
+    "ratingLabel": "Rating",
+    "ratingWord": "reviews"
+  },
+  "facilities": {
+    "kicker": "Facilities",
+    "title": "What is inside the hall",
+    "lead": "A covered main court with seating, built for both league competition and school or training use.",
+    "items": {
+      "f1": {
+        "name": "Main court",
+        "detail": "Covered, with seating, for basketball, handball, futsal and volleyball."
+      },
+      "f2": {
+        "name": "Changing rooms",
+        "detail": "Changing rooms and showers for teams and officials, opening off the court."
+      },
+      "f3": {
+        "name": "Spectator seating",
+        "detail": "Seats for the public, with space reserved for wheelchair users."
+      },
+      "f4": {
+        "name": "Step-free access",
+        "detail": "Accessible entrance and parking for people with reduced mobility."
+      },
+      "f5": {
+        "name": "Training area",
+        "detail": "Space for warm-ups and training off the main court."
+      },
+      "f6": {
+        "name": "Sports grounds",
+        "detail": "Part of a sports zone shared with other municipal facilities."
+      }
+    }
+  },
+  "sports": {
+    "kicker": "Sports",
+    "title": "What you can play",
+    "lead": "The hall hosts the local leagues and the town clubs' training sessions through the season.",
+    "items": {
+      "s1": {
+        "name": "Basketball",
+        "note": "A regulation court for club and school matches and training."
+      },
+      "s2": {
+        "name": "Handball",
+        "note": "One of the facility's regular disciplines."
+      },
+      "s3": {
+        "name": "Futsal",
+        "note": "An indoor court for local leagues and training games."
+      },
+      "s4": {
+        "name": "Volleyball",
+        "note": "Net and enough space for competition and practice."
+      },
+      "s5": {
+        "name": "School sport",
+        "note": "PE sessions and activities during the school day."
+      },
+      "s6": {
+        "name": "Competition",
+        "note": "Venue for official fixtures of the town's teams."
+      }
+    }
+  },
+  "reviews": {
+    "kicker": "Reviews",
+    "title": "What people say",
+    "lead": "Extracts from reviews published on Google by people who use the facility.",
+    "readAll": "Read all reviews"
+  },
+  "visit": {
+    "kicker": "Find us",
+    "title": "Where it is and how to get in",
+    "lead": "On Ronda Ibèrica, 66, in the sports zone of Vilanova i la Geltrú. Call ahead if you want to confirm court availability.",
+    "addressLabel": "Address",
+    "phoneLabel": "Phone",
+    "plusLabel": "Plus Code",
+    "directions": "Get directions",
+    "call": "Call",
+    "mapTitle": "Map showing the location of the Isaac Galvez Pavilion",
+    "mapNote": "The map only loads if you accept third-party cookies.",
+    "mapLoad": "Load the map"
+  },
+  "footer": {
+    "line": "Municipal sports hall in Vilanova i la Geltrú.",
+    "navTitle": "Navigation",
+    "legal": "This page is an information sheet for the facility. For bookings, opening times and activities, please contact the hall."
+  },
+  "cookies": {
+    "text": "We use technical cookies to remember your choice. If you accept, we also measure visits with Google Analytics and load the Google map.",
+    "accept": "Accept",
+    "reject": "Essentials only",
+    "policy": "More information"
+  },
+  "a11y": {
+    "langSwitch": "Change language",
+    "menuToggle": "Open navigation menu"
+  }
+}

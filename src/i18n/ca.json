@@ -1,0 +1,135 @@
+{
+  "locale": "ca",
+  "htmlLang": "ca",
+  "ogLocale": "ca_ES",
+  "pathPrefix": "./",
+  "countryName": "Espanya",
+  "brand": {
+    "sub": "Pavelló municipal · Vilanova"
+  },
+  "meta": {
+    "title": "Pavelló Isaac Galvez · Poliesportiu municipal de Vilanova i la Geltrú",
+    "description": "Pavelló poliesportiu municipal a la Ronda Ibèrica, 66, Vilanova i la Geltrú. Pistes per a bàsquet, handbol, futbol sala i voleibol, i espai per a entrenaments i competicions. Informació: 938 14 34 50.",
+    "ogAlt": "Pavelló Poliesportiu Municipal Isaac Galvez, Vilanova i la Geltrú"
+  },
+  "nav": {
+    "facilities": "Instal·lacions",
+    "sports": "Esports",
+    "reviews": "Opinions",
+    "visit": "Com arribar",
+    "skip": "Ves al contingut principal",
+    "label": "Navegació principal"
+  },
+  "hero": {
+    "kicker": "Ronda Ibèrica, 66 · Vilanova i la Geltrú",
+    "title": "El pavelló on juga mitja Vilanova",
+    "lede": "Instal·lació municipal coberta per a bàsquet, handbol, futbol sala i voleibol. Pistes per a entrenament i partit, grades i accés adaptat. La seu dels equips de la ciutat.",
+    "photoAlt": "foto del pavelló poliesportiu",
+    "photoCredit": "Foto"
+  },
+  "glance": {
+    "label": "El pavelló d'un cop d'ull",
+    "addressLabel": "Adreça",
+    "phoneLabel": "Informació",
+    "bookingLabel": "Reserves",
+    "bookingValue": "Per telèfon, segons disponibilitat",
+    "ratingLabel": "Valoració",
+    "ratingWord": "opinions"
+  },
+  "facilities": {
+    "kicker": "Instal·lacions",
+    "title": "Què hi ha dins del pavelló",
+    "lead": "Una pista central coberta amb grades, pensada tant per a competició federada com per a entrenament i activitat escolar.",
+    "items": {
+      "f1": {
+        "name": "Pista central",
+        "detail": "Coberta i amb grades, per a bàsquet, handbol, futbol sala i voleibol."
+      },
+      "f2": {
+        "name": "Vestidors",
+        "detail": "Vestidors i dutxes per a equips i àrbitres, amb accés des de la pista."
+      },
+      "f3": {
+        "name": "Grades",
+        "detail": "Seients per al públic, amb espai reservat per a cadires de rodes."
+      },
+      "f4": {
+        "name": "Accés adaptat",
+        "detail": "Entrada i aparcament accessible per a persones amb mobilitat reduïda."
+      },
+      "f5": {
+        "name": "Zona d'entrenament",
+        "detail": "Espai per a escalfament i entrenament fora de la pista principal."
+      },
+      "f6": {
+        "name": "Equipaments esportius",
+        "detail": "Zona esportiva compartida amb altres instal·lacions municipals."
+      }
+    }
+  },
+  "sports": {
+    "kicker": "Esports",
+    "title": "Què s'hi pot jugar",
+    "lead": "El pavelló acull les lligues locals i els entrenaments dels clubs de la ciutat al llarg de la temporada.",
+    "items": {
+      "s1": {
+        "name": "Bàsquet",
+        "note": "Pista reglamentària per a partits i entrenaments de clubs i escoles."
+      },
+      "s2": {
+        "name": "Handbol",
+        "note": "Una de les disciplines habituals de la instal·lació."
+      },
+      "s3": {
+        "name": "Futbol sala",
+        "note": "Pista coberta per a lligues locals i partits d'entrenament."
+      },
+      "s4": {
+        "name": "Voleibol",
+        "note": "Xarxa i espai suficient per a competició i entrenament."
+      },
+      "s5": {
+        "name": "Esport escolar",
+        "note": "Activitats i sessions d'educació física en horari lectiu."
+      },
+      "s6": {
+        "name": "Competició",
+        "note": "Seu de partits oficials dels equips de la ciutat."
+      }
+    }
+  },
+  "reviews": {
+    "kicker": "Opinions",
+    "title": "Què en diu la gent",
+    "lead": "Extractes d'opinions publicades a Google per usuaris de la instal·lació.",
+    "readAll": "Llegeix totes les opinions"
+  },
+  "visit": {
+    "kicker": "Com arribar",
+    "title": "On és i com hi entres",
+    "lead": "A la Ronda Ibèrica, 66, a la zona esportiva de Vilanova i la Geltrú. Truca abans si vols confirmar disponibilitat de pista.",
+    "addressLabel": "Adreça",
+    "phoneLabel": "Telèfon",
+    "plusLabel": "Plus Code",
+    "directions": "Com arribar-hi",
+    "call": "Trucar",
+    "mapTitle": "Mapa amb la ubicació del Pavelló Isaac Galvez",
+    "mapNote": "El mapa només es carrega si acceptes les galetes de tercers.",
+    "mapLoad": "Carrega el mapa"
+  },
+  "footer": {
+    "line": "Pavelló poliesportiu municipal de Vilanova i la Geltrú.",
+    "navTitle": "Navegació",
+    "legal": "Aquesta pàgina és una fitxa informativa de la instal·lació. Per a reserves, horaris i activitats, contacta amb el pavelló."
+  },
+  "cookies": {
+    "text": "Fem servir galetes tècniques per recordar la teva elecció. Si acceptes, també mesurem les visites amb Google Analytics i carreguem el mapa de Google.",
+    "accept": "Accepta",
+    "reject": "Només essencials",
+    "policy": "Més informació"
+  },
+  "a11y": {
+    "langSwitch": "Canviar d'idioma",
+    "menuToggle": "Obre el menú de navegació"
+  }
+}

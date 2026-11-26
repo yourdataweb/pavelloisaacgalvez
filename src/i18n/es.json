@@ -1,0 +1,135 @@
+{
+  "locale": "es",
+  "htmlLang": "es",
+  "ogLocale": "es_ES",
+  "pathPrefix": "../",
+  "countryName": "España",
+  "brand": {
+    "sub": "Pabellón municipal · Vilanova"
+  },
+  "meta": {
+    "title": "Pabellón Isaac Galvez · Polideportivo municipal de Vilanova i la Geltrú",
+    "description": "Pabellón polideportivo municipal en la Ronda Ibèrica, 66, Vilanova i la Geltrú. Pistas para baloncesto, balonmano, fútbol sala y voleibol, y espacio para entrenamientos y competiciones. Información: 938 14 34 50.",
+    "ogAlt": "Pabellón Polideportivo Municipal Isaac Galvez, Vilanova i la Geltrú"
+  },
+  "nav": {
+    "facilities": "Instalaciones",
+    "sports": "Deportes",
+    "reviews": "Opiniones",
+    "visit": "Cómo llegar",
+    "skip": "Ir al contenido principal",
+    "label": "Navegación principal"
+  },
+  "hero": {
+    "kicker": "Ronda Ibèrica, 66 · Vilanova i la Geltrú",
+    "title": "El pabellón donde juega media Vilanova",
+    "lede": "Instalación municipal cubierta para baloncesto, balonmano, fútbol sala y voleibol. Pistas para entrenamiento y partido, gradas y acceso adaptado. La sede de los equipos de la ciudad.",
+    "photoAlt": "foto del pabellón polideportivo",
+    "photoCredit": "Foto"
+  },
+  "glance": {
+    "label": "El pabellón de un vistazo",
+    "addressLabel": "Dirección",
+    "phoneLabel": "Información",
+    "bookingLabel": "Reservas",
+    "bookingValue": "Por teléfono, según disponibilidad",
+    "ratingLabel": "Valoración",
+    "ratingWord": "opiniones"
+  },
+  "facilities": {
+    "kicker": "Instalaciones",
+    "title": "Qué hay dentro del pabellón",
+    "lead": "Una pista central cubierta con gradas, pensada tanto para competición federada como para entrenamiento y actividad escolar.",
+    "items": {
+      "f1": {
+        "name": "Pista central",
+        "detail": "Cubierta y con gradas, para baloncesto, balonmano, fútbol sala y voleibol."
+      },
+      "f2": {
+        "name": "Vestuarios",
+        "detail": "Vestuarios y duchas para equipos y árbitros, con acceso desde la pista."
+      },
+      "f3": {
+        "name": "Gradas",
+        "detail": "Asientos para el público, con espacio reservado para sillas de ruedas."
+      },
+      "f4": {
+        "name": "Acceso adaptado",
+        "detail": "Entrada y aparcamiento accesible para personas con movilidad reducida."
+      },
+      "f5": {
+        "name": "Zona de entrenamiento",
+        "detail": "Espacio para calentamiento y entrenamiento fuera de la pista principal."
+      },
+      "f6": {
+        "name": "Equipamientos deportivos",
+        "detail": "Zona deportiva compartida con otras instalaciones municipales."
+      }
+    }
+  },
+  "sports": {
+    "kicker": "Deportes",
+    "title": "Qué se puede jugar",
+    "lead": "El pabellón acoge las ligas locales y los entrenamientos de los clubes de la ciudad a lo largo de la temporada.",
+    "items": {
+      "s1": {
+        "name": "Baloncesto",
+        "note": "Pista reglamentaria para partidos y entrenamientos de clubes y escuelas."
+      },
+      "s2": {
+        "name": "Balonmano",
+        "note": "Una de las disciplinas habituales de la instalación."
+      },
+      "s3": {
+        "name": "Fútbol sala",
+        "note": "Pista cubierta para ligas locales y partidos de entrenamiento."
+      },
+      "s4": {
+        "name": "Voleibol",
+        "note": "Red y espacio suficiente para competición y entrenamiento."
+      },
+      "s5": {
+        "name": "Deporte escolar",
+        "note": "Actividades y sesiones de educación física en horario lectivo."
+      },
+      "s6": {
+        "name": "Competición",
+        "note": "Sede de partidos oficiales de los equipos de la ciudad."
+      }
+    }
+  },
+  "reviews": {
+    "kicker": "Opiniones",
+    "title": "Qué dice la gente",
+    "lead": "Extractos de opiniones publicadas en Google por usuarios de la instalación.",
+    "readAll": "Leer todas las opiniones"
+  },
+  "visit": {
+    "kicker": "Cómo llegar",
+    "title": "Dónde está y cómo se entra",
+    "lead": "En la Ronda Ibèrica, 66, en la zona deportiva de Vilanova i la Geltrú. Llama antes si quieres confirmar disponibilidad de pista.",
+    "addressLabel": "Dirección",
+    "phoneLabel": "Teléfono",
+    "plusLabel": "Plus Code",
+    "directions": "Cómo llegar",
+    "call": "Llamar",
+    "mapTitle": "Mapa con la ubicación del Pabellón Isaac Galvez",
+    "mapNote": "El mapa solo se carga si aceptas las cookies de terceros.",
+    "mapLoad": "Cargar el mapa"
+  },
+  "footer": {
+    "line": "Pabellón polideportivo municipal de Vilanova i la Geltrú.",
+    "navTitle": "Navegación",
+    "legal": "Esta página es una ficha informativa de la instalación. Para reservas, horarios y actividades, contacta con el pabellón."
+  },
+  "cookies": {
+    "text": "Usamos cookies técnicas para recordar tu elección. Si aceptas, además medimos las visitas con Google Analytics y cargamos el mapa de Google.",
+    "accept": "Aceptar",
+    "reject": "Solo lo esencial",
+    "policy": "Más información"
+  },
+  "a11y": {
+    "langSwitch": "Cambiar de idioma",
+    "menuToggle": "Abrir menú de navegación"
+  }
+}
