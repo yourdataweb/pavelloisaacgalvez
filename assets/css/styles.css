@@ -385,8 +385,8 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 .cookies__actions { display: flex; gap: .5rem; flex: none; }
 
 /* ---------- reveal ---------- */
-.reveal { opacity: 0; transform: translateY(16px); transition: opacity .55s ease, transform .55s cubic-bezier(.22,1,.36,1); }
-.reveal.is-visible { opacity: 1; transform: none; }
+html.js .reveal { opacity: 0; transform: translateY(16px); transition: opacity .55s ease, transform .55s cubic-bezier(.22,1,.36,1); }
+html.js .reveal.is-visible { opacity: 1; transform: none; }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   .reveal { opacity: 1; transform: none; transition: none; }
