@@ -117,6 +117,7 @@
         {{#each langs}}
         <a class="langs__link" href="{{this.href}}" hreflang="{{this.code}}" lang="{{this.code}}"{{#if this.current}} aria-current="true"{{/if}}>
           <span class="langs__flag" aria-hidden="true">{{{this.flag}}}</span>
+          <span class="langs__code">{{this.code}}</span>
           <span class="sr-only">{{this.name}}</span>
         </a>
         {{/each}}
